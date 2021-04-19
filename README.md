@@ -1,2 +1,4 @@
-# rubick-cube-host-on-aws
+# Rubick-cube-host-on-aws
+
+# Installation and setting up process is in ppt
 
